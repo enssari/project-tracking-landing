@@ -17,10 +17,10 @@ export const Navbar = () => {
                 <ul>
                     <li className='flex flex-row space-x-10 text-verydarkb font-bold
                     tracking-wide text-[1.3rem]'>
-                        <a href="#" className='hover:underline duration-150'>PRODUCT</a>
-                        <a href="#" className='hover:underline duration-150'>FEATURES</a>
-                        <a href="#" className='hover:underline duration-150'>PRICING</a>
-                        <a href="#" className='font-bold relative top-[-.2rem] pointer-events-none
+                        <a href="/" className='hover:underline duration-150'>PRODUCT</a>
+                        <a href="/" className='hover:underline duration-150'>FEATURES</a>
+                        <a href="/" className='hover:underline duration-150'>PRICING</a>
+                        <a href="/" className='font-bold relative top-[-.2rem] pointer-events-none
                         text-grayishb'>
                             .
                         </a>
@@ -52,10 +52,10 @@ export const Navbar = () => {
             <ul className='p-[2rem]'>
                 <li className='flex flex-col items-center justify-center text-verydarkb
                 font-bold space-y-5 text-[1.3rem]'>
-                    <a href="" className='hover:underline duration-150'>PRODUCT</a>
-                    <a href="" className='hover:underline duration-150'>FEATURES</a>
-                    <a href="" className='hover:underline duration-150'>PRICING</a>
-                    <a href="" className='text-grayishb border-t-solid border-t-[1px] border-t-[#d8d7d7]
+                    <a href="/" className='hover:underline duration-150'>PRODUCT</a>
+                    <a href="/" className='hover:underline duration-150'>FEATURES</a>
+                    <a href="/" className='hover:underline duration-150'>PRICING</a>
+                    <a href="/" className='text-grayishb border-t-solid border-t-[1px] border-t-[#d8d7d7]
                     w-[18rem] m-auto flex justify-center pt-5 hover:underline'>
                         LOGIN
                     </a>

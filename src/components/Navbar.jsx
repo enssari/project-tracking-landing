@@ -24,7 +24,7 @@ export const Navbar = () => {
                         text-grayishb'>
                             .
                         </a>
-                        <a href="#" className='text-grayishb hover:underline duration-150'>LOGIN</a>
+                        <a href="/" className='text-grayishb hover:underline duration-150'>LOGIN</a>
                     </li>
                 </ul>
             </div>
